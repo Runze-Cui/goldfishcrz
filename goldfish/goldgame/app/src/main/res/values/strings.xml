@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">goldfish game</string>
+    <string name="easy">easily</string>
+    <string name="medium">difficult</string>
+    <string name="play"> start play</string>
+    <string name="hard">hell</string>
+    <string name="name">name</string>
+    <string name="ok">ok</string>
+    <string name="change">Switching Languages</string>
+    <string name="win">You win</string>
+    <string name="wins">Great,you win</string>
+    <string name="cancel">cancel</string>
+    <string name="hint">hint</string>
+    <string name="great">That\'s great</string>
+    <string name="count">They count：</string>
+    <string name="input_name">please inout name：</string>
+</resources>

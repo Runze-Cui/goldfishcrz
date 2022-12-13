@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">goldfish game</string>
+    <string name="name">姓名</string>
+    <string name="play">开始游戏</string>
+    <string name="easy">轻松</string>
+    <string name="medium">困难</string>
+    <string name="hard">地狱</string>
+    <string name="ok">确定</string>
+    <string name="great">真棒</string>
+    <string name="change">切换语言</string>
+    <string name="win">你赢了</string>
+    <string name="wins">你赢了</string>
+    <string name="hint">提示</string>
+    <string name="cancel">取消</string>
+    <string name="input_name">请输入姓名</string>
+    <string name="count">步数：</string>
+</resources>
