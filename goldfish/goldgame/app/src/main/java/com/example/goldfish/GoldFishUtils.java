@@ -41,13 +41,13 @@ public class GoldFishUtils {
         integerList.add(R.drawable.goldfish18);
         integerList.add(R.drawable.goldfish19);
         integerList.add(R.drawable.goldfish20);
-        //打乱顺序
+        //disrupt the order
         Collections.shuffle(integerList);
         return integerList;
     }
 
     /**
-     * 随机选取 num张图片，并复制一份，合并复制份数据，返回
+     * choose random
      * @param
      * @return
      */
