@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * 获取金鱼图片
+     * get goldfish picture
      */
     public void getGoldFish(){
         final OkHttpClient client = new OkHttpClient();
